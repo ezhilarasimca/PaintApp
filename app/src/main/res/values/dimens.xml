@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin10dp">10dp</dimen>
+    <dimen name="buttonsize40dp">35dp</dimen>
+    <dimen name="buttonsize35dp">35dp</dimen>
+    <dimen name="buttonsize50dp">50dp</dimen>
+    <dimen name="buttonsize55dp">55dp</dimen>
+    <dimen name="buttonsize43dp">43dp</dimen>
+    <dimen name="layoutsize20dp">20dp</dimen>
+    <dimen name="layoutsize60dp">60dp</dimen>
+    <dimen name="layoutmargin5dp">5dp</dimen>
+
+    <dimen name="resizebtnsize25">25dp</dimen>
+    <dimen name="editbtnsize30">30dp</dimen>
+    <dimen name="backarrowsize20">20dp</dimen>
+
+
+    <dimen name="textsize8">8sp</dimen>
+    <dimen name="alarm_time_size">15sp</dimen>
+
+    <dimen name="remaindertextsize">20sp</dimen>
+    <dimen name="timepickerbgsize">300dp</dimen>
+    <item name="timepickersize" format="float" type="dimen">1.3</item>
+    <dimen name="annotation_sidetext_width">30dp</dimen>
+    <dimen name="annotation_sidetext_height">120dp</dimen>
+    <dimen name="alarm_modechange">35dp</dimen>
+
+    <dimen name="colorpicker_passive">30dp</dimen>
+    <dimen name="colorpicker_active">40dp</dimen>
+    <dimen name="resizebtnsize25_active">40dp</dimen>
+
+    <dimen name="paint_btn">30dp</dimen>
+    <dimen name="paint_pen_eraser">28dp</dimen>
+    <dimen name="paint_pen_eraser_active">43dp</dimen>
+
+</resources>
